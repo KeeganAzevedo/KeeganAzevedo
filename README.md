@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Keegan Azevedo 👋
 
-<!--
-**KeeganAzevedo/KeeganAzevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at the University of Aveiro, Portugal.
 
-Here are some ideas to get you started:
+💻 Interested in Software Engineering, Backend Development and Distributed Systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies
+
+**Languages**
+- Java
+- C
+- Python
+- SQL
+- MATLAB
+- JavaScript
+- HTML/CSS
+
+**Technologies & Tools**
+- Spring Boot
+- Docker
+- Git
+- Redis
+- MongoDB
+- Cassandra
+- Maven
+- Linux / WSL
+
+### 🚀 Featured Projects
+
+#### ParkSmart
+Smart parking system integrating parking occupancy and vehicle detection data.
+
+**Technologies:** Java, Spring Boot, Docker, Redis
+
+#### SafeLang
+Compiler project developed for a custom programming language.
+
+**Technologies:** Java
+
+#### Liga Portugal Database
+Database project involving relational and NoSQL technologies.
+
+**Technologies:** SQL, MongoDB, Redis, Cassandra
+
+### 📚 Education
+
+**University of Aveiro**
+Bachelor's Degree in Computer Engineering

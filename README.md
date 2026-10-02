@@ -9,14 +9,6 @@
 💻 Interested in Software Engineering, Backend Development and Distributed Systems.
 
 ---
-### 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=KeeganAzevedo&show_icons=true&theme=tokyonight"
-    alt="Keegan's GitHub Stats"
-  />
-</p>
 
 ### 🛠️ Tech Stack
 

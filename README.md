@@ -1,6 +1,10 @@
 # Hi, I'm Keegan Azevedo 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F5F5DC&width=450&lines=Welcome+to+Keegan's+GitHub;Software+Engineering+Student">
+  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=450&lines=Welcome+to+Inês's+GitHub;Software+Engineering+Student">
+</picture>
 
-🎓 Computer Engineering student at the University of Aveiro, Portugal.
+🎓 Software Engineering student at the University of Aveiro, Portugal.
 
 💻 Interested in Software Engineering, Backend Development and Distributed Systems.
 

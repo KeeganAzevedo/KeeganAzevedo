@@ -4,45 +4,44 @@
 
 💻 Interested in Software Engineering, Backend Development and Distributed Systems.
 
-### 🛠️ Technologies
+---
+
+### 🛠️ Tech Stack
 
 **Languages**
-- Java
-- C
-- Python
-- SQL
-- MATLAB
-- JavaScript
-- HTML/CSS
 
-**Technologies & Tools**
-- Spring Boot
-- Docker
-- Git
-- Redis
-- MongoDB
-- Cassandra
-- Maven
-- Linux / WSL
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,py,js,html,css,matlab" />
+</p>
+
+**Frameworks, Databases & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,docker,git,redis,mongodb,cassandra,maven,linux" />
+</p>
+
+---
 
 ### 🚀 Featured Projects
 
-#### ParkSmart
+#### 🚗 ParkSmart
 Smart parking system integrating parking occupancy and vehicle detection data.
 
 **Technologies:** Java, Spring Boot, Docker, Redis
 
-#### SafeLang
+#### ⚙️ SafeLang
 Compiler project developed for a custom programming language.
 
 **Technologies:** Java
 
-#### Liga Portugal Database
+#### ⚽ Liga Portugal Database
 Database project involving relational and NoSQL technologies.
 
 **Technologies:** SQL, MongoDB, Redis, Cassandra
 
+---
+
 ### 📚 Education
 
-**University of Aveiro**
+**University of Aveiro**  
 Bachelor's Degree in Computer Engineering
